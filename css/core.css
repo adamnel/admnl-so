@@ -67,7 +67,8 @@ h1 {
 	margin-bottom: 0px;
 }
 .oneColElsCtr #container {
-	background:url(../img/racc.jpg) center center;
+	background: url(../img/racc.jpg) center center;
+	background-size: cover;
 	/*width: 300px;*/
 	height:100%;
 	margin: 0 auto; /* the auto margins (in conjunction with a width) center the page */
